@@ -1,37 +1,24 @@
-# Virtual Environment
-ml_env/
-venv/
-env/
-ENV/
+# Machine Learning Educational Project 
 
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
+A **professional-grade** machine learning platform with interactive web interface, real-time predictions, feature analysis, and educational insights.
 
-# Distribution / packaging
-build/
-dist/
-*.egg-info/
+## 🎯 Project Overview
 
-# Jupyter Notebook
-.ipynb_checkpoints
+This comprehensive ML platform goes beyond basic model training - it includes data quality checking, feature importance analysis, interactive predictions, and detailed model explanations. Perfect for learning, portfolio projects, and real-world applications!
 
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+## 🤖 Machine Learning Algorithms
 
-# OS
-.DS_Store
-Thumbs.db
+- **Logistic Regression** - Linear classification model
+- **Decision Tree** - Tree-based decision making
+- **Random Forest** - Ensemble of decision trees
+- **Support Vector Machine (SVM)** - Margin-based classification
 
-# Project specific
-*.png
-*.jpg
-*.jpeg
-*.pdf
+## 📊 Features
+
+- Automatic synthetic data generation
+- Data preprocessing and scaling
+- Train/test split for model validation
+- Performance metrics (accuracy, precision, recall, F1-score)
+- Visual comparison of model performance
+- Confusion matrix visualization
+
