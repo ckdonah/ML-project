@@ -1,10 +1,10 @@
 # Machine Learning Educational Project 
 
-A **professional-grade** machine learning platform with interactive web interface, real-time predictions, feature analysis, and educational insights.
+A **professional grade** machine learning platform with interactive web interface, real-time predictions, feature analysis, and educational insights.
 
 ## 🎯 Project Overview
 
-This comprehensive ML platform goes beyond basic model training - it includes data quality checking, feature importance analysis, interactive predictions, and detailed model explanations. Perfect for learning, portfolio projects, and real-world applications!
+This comprehensive ML platform goes beyond basic model training, it includes data quality checking, feature importance analysis, interactive predictions, and detailed model explanations. Perfect for learning, portfolio projects, and real-world applications!
 
 ## 🤖 Machine Learning Algorithms
 
