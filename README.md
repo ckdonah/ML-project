@@ -4,7 +4,7 @@ A **professional grade** machine learning platform with interactive web interfac
 
 ## 🎯 Project Overview
 
-This comprehensive ML platform goes beyond basic model training, it includes data quality checking, feature importance analysis, interactive predictions, and detailed model explanations. Perfect for learning, portfolio projects, and real-world applications!
+This comprehensive ML platform goes beyond basic model training, it includes data quality checking, feature importance analysis, interactive predictions, and detailed model explanations. 
 
 ## 🤖 Machine Learning Algorithms
 
